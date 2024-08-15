@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 "# E-Commerce" 
 "# E-Commerce" 
 "# E-commerce" 
+
+
+npm install
+
